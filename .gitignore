@@ -1,0 +1,9 @@
+# Python cache
+*.py[cod]
+__pycache__/
+
+profitable-cach.json
+**venv**
+
+## PyCharm
+.idea/
